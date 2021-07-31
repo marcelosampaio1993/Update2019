@@ -19,6 +19,7 @@ namespace SalesWebMvc2.Controllers
         {
             ViewData["Message"] = "Salles Web MVC App from c# Course";
             ViewData["professor"] = "Marcelo Sampaio";
+
             return View();
         }
 
