@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-
+using SalesWebMvc2.Models.ViewModels;
 namespace SalesWebMvc2.Controllers
 {
     public class HomeController : Controller
@@ -19,7 +19,6 @@ namespace SalesWebMvc2.Controllers
         {
             ViewData["Message"] = "Salles Web MVC App from c# Course";
             ViewData["professor"] = "Marcelo Sampaio";
-
             return View();
         }
 
