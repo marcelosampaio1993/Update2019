@@ -20,7 +20,6 @@ C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcor
 C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\SalesWebMvc2.RazorTargetAssemblyInfo.cs
 C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\SalesWebMvc2.dll
 C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\SalesWebMvc2.pdb
-C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\bin\Debug\netcoreapp2.1\SalesWebMvc2.deps.json
