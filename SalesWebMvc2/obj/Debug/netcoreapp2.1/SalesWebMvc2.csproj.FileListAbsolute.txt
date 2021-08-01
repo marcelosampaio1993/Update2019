@@ -38,3 +38,7 @@ C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcor
 C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs

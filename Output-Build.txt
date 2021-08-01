@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: SalesWebMvc2, Configuration: Debug Any CPU ------
+1>C:\Users\marcelo.sampaio\source\repos\SalesWebMvc2\SalesWebMvc2\Controllers\SellersController.cs(85,111,85,111): error CS1002: ; expected
+1>Done building project "SalesWebMvc2.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
